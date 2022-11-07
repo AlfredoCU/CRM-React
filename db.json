@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "name": "Juan Marquez Reynoso",
+      "company": "Amenidades",
+      "email": "juan@email.com",
+      "phone": "3315241413",
+      "note": "Excelente cliente",
+      "id": 1
+    },
+    {
+      "name": "Karen Guadalupe Lopez Hernandez",
+      "company": "Alción Computer",
+      "email": "karen@email.com",
+      "phone": "3324667509",
+      "note": "Excelente cliente",
+      "id": 2
+    },
+    {
+      "name": "Josue Vega Rodriguez",
+      "company": "Crisol",
+      "email": "josue@email.com",
+      "phone": "3319555609",
+      "note": "Excelete cliente",
+      "id": 3
+    },
+    {
+      "name": "Miguel Gutierrez Lopez",
+      "company": "Corp Lab",
+      "email": "miguel@email.com",
+      "phone": "3318894013",
+      "note": "Es un cliente complicado",
+      "id": 4
+    },
+    {
+      "name": "Pedro Agnesi Reyes",
+      "company": "Facebook",
+      "email": "pedro@juan.com",
+      "phone": "3317789504",
+      "note": "Excelente cliente e importante",
+      "id": 5
+    }
+  ]
+}
